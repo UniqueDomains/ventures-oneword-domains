@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ventures one-word domains 
 
 **Public extract:** 8,135 rows · **Live catalog:** 8,138 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/ventures`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| event.ventures     | available | $75.98    | —             | 96             | 44     | 5      | namecheap         |
-| curious.ventures   | resell    | $19.99    | $77.99        | 74             | 29     | 7      | Spaceship, Inc.   |
-| law.ventures       | premium   | $520      | $520          | 82             | 46     | 3      | namecheap         |
-| track.ventures     | available | $19.99    | $77.99        | 94             | 42     | 5      | name.com          |
-| black.ventures     | resell    | —         | —             | 100            | 98     | 5      | Epik LLC          |
-| personal.ventures  | premium   | $520      | $520          | 91             | 35     | 8      | namecheap         |
-| review.ventures    | available | $75.98    | —             | 94             | 39     | 6      | namecheap         |
-| basic.ventures     | resell    | —         | —             | 60             | 98     | 5      | Sav.com, LLC - 13 |
-| wealth.ventures    | premium   | $123.75   | —             | 84             | 30     | 6      | name.com          |
-| about.ventures     | available | $19.99    | $77.99        | 94             | 37     | 5      | name.com          |
-| wise.ventures      | resell    | —         | —             | 98             | 72     | 4      | Porkbun LLC       |
-| oil.ventures       | premium   | $250      | $250          | 74             | 29     | 3      | name.com          |
-| terminal.ventures  | available | $19.99    | $77.99        | 104            | 36     | 8      | name.com          |
-| easy.ventures      | resell    | —         | —             | 128            | 68     | 4      | Dynadot Inc       |
-| gulf.ventures      | premium   | $123.75   | —             | 64             | 24     | 4      | name.com          |
-| resume.ventures    | available | $19.99    | $77.99        | 98             | 35     | 6      | name.com          |
-| fun.ventures       | resell    | —         | —             | 122            | 62     | 3      | Spaceship, Inc.   |
-| compact.ventures   | premium   | $19.99    | $77.99        | 115            | 18     | 7      | name.com          |
-| streaming.ventures | available | $75.98    | —             | 88             | 35     | 9      | namecheap         |
-| web.ventures       | resell    | —         | —             | 72             | 61     | 3      | GoDaddy.com, LLC  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| event.ventures     | available | $75.98    | —             | 96             | 44     | 5      | namecheap                                                 |
+| curious.ventures   | resell    | $19.99    | $77.99        | 74             | 29     | 7      | Spaceship, Inc.                                           |
+| law.ventures       | premium   | $520      | $520          | 82             | 46     | 3      | namecheap                                                 |
+| track.ventures     | available | $19.99    | $77.99        | 94             | 42     | 5      | name.com                                                  |
+| basic.ventures     | resell    | —         | —             | 60             | 98     | 5      | Sav.com, LLC - 13                                         |
+| personal.ventures  | premium   | $520      | $520          | 91             | 35     | 8      | namecheap                                                 |
+| review.ventures    | available | $75.98    | —             | 94             | 39     | 6      | namecheap                                                 |
+| wise.ventures      | resell    | —         | —             | 98             | 72     | 4      | Porkbun LLC                                               |
+| wealth.ventures    | premium   | $123.75   | —             | 84             | 30     | 6      | name.com                                                  |
+| terminal.ventures  | available | $19.99    | $77.99        | 104            | 37     | 8      | name.com                                                  |
+| easy.ventures      | resell    | —         | —             | 128            | 68     | 4      | Dynadot Inc                                               |
+| oil.ventures       | premium   | $250      | $250          | 74             | 29     | 3      | name.com                                                  |
+| about.ventures     | available | $19.99    | $77.99        | 94             | 37     | 5      | name.com                                                  |
+| fun.ventures       | resell    | —         | —             | 122            | 62     | 3      | Spaceship, Inc.                                           |
+| gulf.ventures      | premium   | $123.75   | —             | 64             | 24     | 4      | name.com                                                  |
+| resume.ventures    | available | $19.99    | $77.99        | 98             | 35     | 6      | name.com                                                  |
+| web.ventures       | resell    | —         | —             | 72             | 61     | 3      | GoDaddy.com, LLC                                          |
+| compact.ventures   | premium   | $19.99    | $77.99        | 115            | 17     | 7      | name.com                                                  |
+| streaming.ventures | available | $75.98    | —             | 88             | 35     | 9      | namecheap                                                 |
+| pay.ventures       | resell    | —         | —             | 84             | 60     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
