@@ -74,8 +74,9 @@ print(df.head())
 | trends.ventures       | available | $19.99    | —             | 60             | 32     | 6      | name.com          |
 | payments.ventures     | resell    | —         | —             | 58             | 33     | 8      | Sav.com, LLC - 22 |
 | quotes.ventures       | available | $19.99    | —             | 58             | 29     | 6      | name.com          |
-| volume.ventures       | resell    | —         | —             | 76             | 22     | 6      | Spaceship, Inc.   |
+| pyramid.ventures      | resell    | —         | —             | 76             | 31     | 7      | GoDaddy.com, LLC  |
 | pages.ventures        | available | $19.99    | —             | 52             | 28     | 5      | name.com          |
+| volume.ventures       | resell    | —         | —             | 76             | 22     | 6      | Spaceship, Inc.   |
 | gods.ventures         | available | $19.99    | —             | 72             | 27     | 4      | name.com          |
 | bees.ventures         | available | $19.99    | —             | 54             | 27     | 4      | name.com          |
 | schools.ventures      | available | $19.99    | —             | 72             | 24     | 7      | name.com          |
@@ -83,7 +84,6 @@ print(df.head())
 | echoes.ventures       | available | $19.99    | —             | 56             | 24     | 6      | name.com          |
 | holidays.ventures     | available | $19.99    | —             | 78             | 23     | 8      | name.com          |
 | deeplearning.ventures | available | $19.99    | —             | 74             | 23     | 13     | name.com          |
-| inhouse.ventures      | available | $19.99    | —             | 70             | 23     | 8      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
