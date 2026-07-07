@@ -1,10 +1,10 @@
-# Available .VENTURES One-Word Domains (11,052)
+# Available .VENTURES One-Word Domains (11,053)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C052%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C053%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .ventures one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,052 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,053 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,052 domains · **Median ask:** $24.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,053 domains · **Median ask:** $21.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/ventures`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/ventures`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VENTURES one-word dom
 
 ### Files
 
-- `ventures.csv` — public CSV extract (1,000 rows)
-- `ventures.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ventures.csv`, public CSV extract (1,000 rows)
+- `ventures.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| aliens.ventures       | available | $19.99    | —             | 56             | 35     | 6      | name.com          |
-| data.ventures         | resell    | —         | —             | 84             | 54     | 4      | Porkbun LLC       |
-| jobs.ventures         | premium   | $500      | —             | 79             | 42     | 4      | name.com          |
-| Cats.ventures         | available | $75.98    | —             | 59             | 33     | 4      | namecheap         |
-| coins.ventures        | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc       |
-| theone.ventures       | available | $19.99    | —             | 74             | 32     | 7      | name.com          |
-| ideas.ventures        | resell    | —         | —             | 62             | 36     | 5      | GoDaddy.com, LLC  |
-| trends.ventures       | available | $19.99    | —             | 60             | 32     | 6      | name.com          |
-| payments.ventures     | resell    | —         | —             | 58             | 33     | 8      | Sav.com, LLC - 22 |
-| quotes.ventures       | available | $19.99    | —             | 58             | 29     | 6      | name.com          |
-| pyramid.ventures      | resell    | —         | —             | 76             | 31     | 7      | GoDaddy.com, LLC  |
-| pages.ventures        | available | $19.99    | —             | 52             | 28     | 5      | name.com          |
-| volume.ventures       | resell    | —         | —             | 76             | 23     | 6      | Spaceship, Inc.   |
-| gods.ventures         | available | $19.99    | —             | 72             | 27     | 4      | name.com          |
-| bees.ventures         | available | $19.99    | —             | 54             | 27     | 4      | name.com          |
-| schools.ventures      | available | $19.99    | —             | 72             | 24     | 7      | name.com          |
-| shops.ventures        | available | $19.99    | —             | 64             | 24     | 5      | name.com          |
-| echoes.ventures       | available | $19.99    | —             | 56             | 24     | 6      | name.com          |
-| holidays.ventures     | available | $19.99    | —             | 78             | 23     | 8      | name.com          |
-| deeplearning.ventures | available | $19.99    | —             | 74             | 23     | 13     | name.com          |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| Ann.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| dad.ventures     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| jacobs.ventures  | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
+| bye.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| god.ventures     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 11                                         |
+| startup.ventures | premium   | $242      | $242          | high           | medium | 7      | namesilo                                                  |
+| DJI.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| hub.ventures     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 19                                         |
+| end.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| one.ventures     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 31                                         |
+| had.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| acre.ventures    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 33                                         |
+| NYT.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| live.ventures    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| pad.ventures     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| orca.ventures    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| rag.ventures     | available | $19.99    | $77.99        | medium         | low    | 3      | name.com                                                  |
+| play.ventures    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| shh.ventures     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| shop.ventures    | resell    | —         | —             | high           | medium | 4      | Wild West Domains, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,052 live domains                        |
+| 1,000-row public sample | 11,053 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .ventures domains. The names range from direct dictionary words such as write.ventures and massage.ventures to broader terms like special.ventures and number.ventures. That makes the selection useful for buyers who want a clear keyword paired with a venture-focused extension. When comparing these domains, focus on whether the word stands well on its own, whether it fits the commercial meaning of .ventures, and whether the ask justifies the strength of the match. Median ask is 24.11, so price discipline matters less than choosing a word that feels credible, memorable, and easy to explain.
+This set covers 11,053 one-word domain names built on the .ventures extension, spanning startup terminology, everyday phrases, and lifestyle words. Sample names such as pictures.ventures, popup.ventures, and rolemodel.ventures show the range of tone available, from literal to abstract. With a median asking price near $22, most listings sit well below premium TLD pricing, making side-by-side comparison practical before committing to a name.
 
-- All domains in this set use the .ventures extension
-- Examples include write.ventures and cake.ventures
-- Median ask across the selection is 24.11
-- Best picks pair a strong word with clear .ventures fit
+- 11,053 one-word .ventures domain names in this set
+- Median asking price near $22 across the list
+- Names span startup, action, and lifestyle themes
+- Short, ownable options like popup.ventures and gearup.ventures
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
