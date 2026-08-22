@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ventures one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,238 domains · **Median ask:** $14.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/ventures`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| sorry.ventures   | available | $19.99    | $77.99        | high           | low    | 5      | name.com                                                  |
 | Ann.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | dad.ventures     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
 | jacobs.ventures  | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
@@ -83,7 +84,6 @@ print(df.head())
 | pad.ventures     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
 | play.ventures    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | rag.ventures     | available | $19.99    | $77.99        | medium         | low    | 3      | name.com                                                  |
-| shop.ventures    | resell    | —         | —             | high           | medium | 4      | Wild West Domains, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
