@@ -1,10 +1,10 @@
-# Available .VENTURES One-Word Domains (24,932)
+# Available .VENTURES One-Word Domains (26,531)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C932%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C531%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ventures one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,932 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,531 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,932 domains · **Median ask:** $12.15 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 26,531 domains · **Median ask:** $12.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/ventures`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| Ann.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| dad.ventures     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| jacobs.ventures  | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
-| bum.ventures     | available | $5.98     | $75.98        | low            | low    | 3      | namecheap                                                 |
-| hub.ventures     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 19                                         |
-| startup.ventures | premium   | $242      | $242          | medium         | medium | 7      | namesilo                                                  |
-| bye.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| one.ventures     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 31                                         |
-| DJI.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| acre.ventures    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 33                                         |
-| end.ventures     | available | $5.98     | $75.98        | medium         | low    | 3      | namecheap                                                 |
-| live.ventures    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
-| had.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| orca.ventures    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
-| NYT.ventures     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| play.ventures    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| pad.ventures     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
-| shop.ventures    | resell    | —         | —             | high           | medium | 4      | Wild West Domains, LLC                                    |
-| rag.ventures     | available | $19.99    | $77.99        | medium         | low    | 3      | name.com                                                  |
-| brand.ventures   | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| sorry.ventures  | available | $19.99    | $77.99        | high           | low    | 5      | name.com                                                  |
+| one.ventures    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 31                                         |
+| away.ventures   | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| tough.ventures  | available | $19.99    | —             | high           | low    | 5      | name.com                                                  |
+| ann.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| air.ventures    | resell    | —         | —             | medium         | low    | 3      | —                                                         |
+| jacobs.ventures | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
+| bum.ventures    | available | $5.98     | $75.98        | low            | low    | 3      | namecheap                                                 |
+| dad.ventures    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| bye.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| hub.ventures    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 19                                         |
+| dji.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| end.ventures    | available | $20.99    | $59.99        | medium         | low    | 3      | namesilo                                                  |
+| acre.ventures   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 33                                         |
+| had.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| live.ventures   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| nyt.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| orca.ventures   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| pad.ventures    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| play.ventures   | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,932 live domains                        |
+| 1,000-row public sample | 26,531 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
