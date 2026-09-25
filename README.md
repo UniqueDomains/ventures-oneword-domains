@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ventures one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,735 domains · **Median ask:** $11.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/ventures`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ann.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| ain.ventures    | available | $5.98     | $75.98        | high           | low    | 3      | namecheap                                                 |
 | desk.ventures   | resell    | $19.99    | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| jacobs.ventures | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
-| bum.ventures    | available | $5.98     | $75.98        | medium         | low    | 3      | namecheap                                                 |
+| money.ventures  | premium   | $500      | —             | high           | medium | 5      | name.com                                                  |
+| ann.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | dad.ventures    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
-| wealth.ventures | premium   | $123.75   | —             | high           | low    | 6      | name.com                                                  |
-| bye.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| jacobs.ventures | premium   | $500      | —             | high           | low    | 6      | name.com                                                  |
+| awe.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | hub.ventures    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 19                                         |
-| cnn.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| bjp.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | tap.ventures    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| dji.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| bra.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | acre.ventures   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33                                         |
-| gee.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| bum.ventures    | available | $5.98     | $75.98        | medium         | low    | 3      | namecheap                                                 |
 | mono.ventures   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 38                                         |
-| had.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| bye.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | orca.ventures   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
-| lxi.ventures    | available | $5.98     | $75.98        | medium         | low    | 3      | namecheap                                                 |
+| cnn.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | play.ventures   | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| mid.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| shop.ventures   | resell    | —         | —             | high           | medium | 4      | Wild West Domains, LLC                                    |
+| con.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| amino.ventures  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 11                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
