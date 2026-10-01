@@ -1,10 +1,10 @@
-# Available .VENTURES One-Word Domains (25,099)
+# Available .VENTURES One-Word Domains (27,204)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C099%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C204%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ventures one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,099 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,204 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,099 domains · **Median ask:** $13.39 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 27,204 domains · **Median ask:** $13.56 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/ventures`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | adz.ventures        | available | $20.99    | $59.99        | medium         | low    | 3      | namesilo          |
 | bang.ventures       | resell    | $19.99    | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 | wilderness.ventures | premium   | $207.20   | $207.20       | high           | low    | 10     | spaceship         |
-| aku.ventures        | available | $5.98     | $75.98        | high           | low    | 3      | namecheap         |
-| fancy.ventures      | resell    | $19.99    | —             | high           | low    | 5      | Spaceship, Inc.   |
 | apr.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
-| gmt.ventures        | resell    | —         | —             | high           | low    | 3      | —                 |
-| aye.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
+| fancy.ventures      | resell    | $19.99    | —             | high           | low    | 5      | Spaceship, Inc.   |
+| aye.ventures        | available | $20.99    | $59.99        | medium         | low    | 3      | namesilo          |
 | row.ventures        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
-| cob.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
+| cbo.ventures        | available | $46.20    | $46.20        | high           | low    | 3      | cloudflare        |
 | bags.ventures       | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.   |
-| cta.ventures        | available | $5.98     | $75.98        | high           | low    | 3      | namecheap         |
-| beat.ventures       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
-| doj.ventures        | available | $5.38     | $47.81        | high           | low    | 3      | spaceship         |
+| cob.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
 | hemp.ventures       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| efl.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
+| cta.ventures        | available | $5.98     | $75.98        | high           | low    | 3      | namecheap         |
 | kite.ventures       | resell    | —         | —             | high           | low    | 4      | —                 |
-| eid.ventures        | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| doj.ventures        | available | $5.38     | $47.81        | medium         | low    | 3      | spaceship         |
 | mojo.ventures       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 39 |
-| fry.ventures        | available | $5.98     | $75.98        | high           | low    | 3      | namecheap         |
+| ect.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
+| soul.ventures       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 39 |
+| efl.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
+| boost.ventures      | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 38 |
+| fms.ventures        | available | $20.99    | $59.99        | high           | low    | 3      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,099 live domains                        |
+| 1,000-row public sample | 27,204 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VENTURES One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
